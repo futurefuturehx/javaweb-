@@ -1,7 +1,0 @@
-<body>标记的主要属性：
-    bgcolor：设置页面的背景颜色 如：bgcolor="#CCFFCC"
-    background:设置页面背景图片 如:background="images/bg.gif"
-    bgproperties="fixed":使背景图片不随着滚动条的滚动而滚动
-    text:设置文档正文的文字颜色 如：text="#FF6666"
-分段标记:<p>段落文字</p>
-换行标记:<br>
